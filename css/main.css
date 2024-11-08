@@ -1,0 +1,36 @@
+.main {
+}
+.main .layout {
+  max-width: 1200px;
+  /* height: 300px; */
+  /* 여기에 height 넣으면 footer랑 글자 겹칩 주의 */
+  margin: 0 auto;
+  /* 레이아웃 가운데 margin 0 auto */
+  background-color: aquamarine;
+}
+
+.main .slide {
+  width: 100%;
+  height: 300px;
+  background-color: brown;
+}
+.notice-part3 {
+  width: 100%;
+  height: 300px;
+  display: flex;
+
+  /* background-color: cadetblue; */
+}
+
+.notice-part3 .gallery {
+  width: 100%;
+  background-color: antiquewhite;
+}
+.notice-part3 .banner {
+  width: 100%;
+  background-color: brown;
+}
+.notice-part3 .shortcut {
+  width: 100%;
+  background-color: thistle;
+}

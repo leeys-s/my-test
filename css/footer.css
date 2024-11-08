@@ -1,0 +1,25 @@
+.footer {
+}
+.footer .layout {
+  max-width: 1200px;
+  height: 100px;
+  margin: 0 auto;
+  /* 레이아웃 가운데 margin 0 auto */
+  background-color: gold;
+  display: flex;
+}
+
+.layout .footer-logo {
+  width: 300px;
+  background-color: aqua;
+}
+.layout .footer-copy {
+  width: 600px;
+
+  background-color: blanchedalmond;
+}
+.layout .footer-sns {
+  width: 300px;
+
+  background-color: gold;
+}
